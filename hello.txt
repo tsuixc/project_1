@@ -13,9 +13,9 @@ int main()
     	a=b;
     	b=r;
     }
-    printf("The GCD of %d and %d is: %d\n",M,N,a);
+    printf("The GCD of %d and %d is: %d\n",M,N,a); 
     
-    m=M*N/a;
+    m=M*N/a; //math thinking...
     printf("The SCM of %d and %d is: %d\n,M,N,m);
     
     return 0;
